@@ -6,10 +6,10 @@
 
 ## Описание данных
 
-airports_nearest — расстояние до ближайшего аэропорта в метрах (м)
-balcony — число балконов
-ceiling_height — высота потолков (м)
-cityCenters_nearest — расстояние до центра города (м)
+airports_nearest — расстояние до ближайшего аэропорта в метрах (м). 
+balcony — число балконов. 
+ceiling_height — высота потолков (м). 
+cityCenters_nearest — расстояние до центра города (м). 
 days_exposition — сколько дней было размещено объявление (от публикации до снятия)
 first_day_exposition — дата публикации
 floor — этаж
